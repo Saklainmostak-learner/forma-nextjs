@@ -76,3 +76,11 @@ Sample products are defined in `lib/products.js`. New products are saved in loca
 12. `docs: finalize setup guide and submission checklist`
 
 Only make commits as milestones are actually finished; do not fabricate a development history.
+
+## Live Website
+
+https://forma-nextjs-six.vercel.app/
+
+## GitHub Repository
+
+https://github.com/Saklainmostak-learner/forma-nextjs
