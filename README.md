@@ -9,6 +9,18 @@ Forma is a responsive editorial-style product catalog built for the Remontada Ne
 - LocalStorage for user-created products
 - Lucide icons, React Hot Toast
 
+## Main Dependencies
+
+- next
+- react
+- react-dom
+- firebase
+- lucide-react
+- react-hot-toast
+- tailwindcss
+
+See package.json for the full dependency list.
+
 ## Features
 - Responsive sticky navbar, user dropdown, mobile menu
 - Landing page: navbar, hero, featured products, categories, brand story, benefits, footer (four relevant content sections)
