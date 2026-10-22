@@ -1,3 +1,7 @@
+## Project Preview
+
+![Homepage Screenshot](./homepage.png)
+
 # Forma — Curated Workspace Essentials
 
 Forma is a responsive editorial-style product catalog built for the Remontada Next.js Assessment. Explore curated workspace objects, filter by category and price, authenticate using Firebase, and add or manage your own products.
